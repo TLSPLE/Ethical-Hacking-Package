@@ -1,0 +1,9 @@
+Version: 1.0.0.457
+CompanyName: ABC Software Solutions Inc.
+FileDescription: Configuration Manager
+LegalCopyright: © 2023 ABC Software Solutions Inc. All rights reserved.
+OriginalFilename: config.exe
+ProductName: ABC Configurator
+Translation:
+  - langID: 1033
+    charsetID: 1252
