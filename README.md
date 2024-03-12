@@ -15,4 +15,4 @@ Welcome to the Ethical Hacking Package repository! This repository is dedicated 
 To get started with the Ethical Hacking Package, simply clone or download this repository to your local machine. You can then explore the contents, experiment with the provided code snippets, and follow along with the tutorials at your own pace.
 
 ```bash
-git clone https://github.com/your-username/ethical-hacking-package.git
+git clone https://github.com/TLSPLE/Ethical-Hacking-Package.git

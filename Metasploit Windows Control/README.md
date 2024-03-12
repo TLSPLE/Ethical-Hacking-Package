@@ -38,3 +38,15 @@ These scripts are for educational purposes only. Misuse of these scripts for una
 ## Contributors:
 
 Contributions to this project are welcome! Feel free to submit pull requests with improvements, bug fixes, or additional features.
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_1.png)
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_2.png)
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_3.png)
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_4.png)
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_5.png)
+
+![image](https://github.com/TLSPLE/Ethical-Hacking-Package/blob/master/img/Metasploit%20Windows%20Control_6.png)
