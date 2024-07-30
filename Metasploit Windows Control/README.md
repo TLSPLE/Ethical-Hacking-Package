@@ -1,6 +1,6 @@
 # Metasploit Windows Control
 
-This repository contains a set of scripts designed to facilitate control and management of Windows systems using Metasploit.
+This repository contains a set of scripts designed to facilitate control and management of Windows systems using Metasploit. [Click here to watch the tutorial video](https://youtu.be/OaE01WRMyMk)
 
 ## Script Overview:
 
